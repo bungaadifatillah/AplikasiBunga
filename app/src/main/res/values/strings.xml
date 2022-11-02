@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Profil Artis Hollywood</string>
+    <string name="hello_blank_fragment">Ini Adalah Aplikasi Profil Artis Hollywood</string>
+    <string name="this_call">Aplikasi Buatan Bunga Adifatillah</string>
+    <string name="this_fragment">Ini adalah menu fragment</string>
+    <string name="search">Search</string>
+    <string name="menu_1">Menu 1</string>
+    <string name="menu_2">Menu 2</string>
+    <string name="search_hint">Masukkan Kata</string>
+    <string name="name">Nama Artis</string>
+    <string name="home">Home</string>
+    <string name="desktop">Desktop</string>
+    <string name="description">Deskripsi</string>
+    <string-array name="data_name">
+        <item>Tom Stanley Holland</item>
+        <item>Scarlett Johansson</item>
+        <item>Robert John Downy Jr</item>
+        <item>Emma Watson</item>
+        <item>Vin Diesel</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Lahir di Britania Raya, 1 June 1996. Memulai karir aktingnya di atas panggung teater dalam peran judul Billy Elliot the Musical di West End dari tahun 2008 hingga 2010 dan mendapatkan pengakuan untuk perannya dalam film bencana The Impossible (2012), menerima Penghargaan London Film Critics Circle kategori Young British Performer of the Year. Holland mulai semakin terkenal karena memerankan Spider-Man dalam film superhero Marvel Cinematic Universe, Captain America: Civil War (2016), Spider-Man: Homecoming (2017), Avengers: Infinity War (2018), Avengers: Endgame (2019), Spider-Man: Far From Home (2019) dan Spider-Man: No Way Home (2021). Pada tahun 2017, Holland yang berusia dua puluh tahun menjadi penerima Penghargaan BAFTA Rising Star termuda kedua.  </item>
+        <item>Lahir di Amerika Serikat, 21 September 1984. Kariernya di dunia akting dimulai saat ia berusia 9 tahun. Waktu itu ia mendapat tawaran untuk memerankan putri John Ritter pada film North (1994). Setelah itu ia mendapatkan beberapa peran kecil di film “Just Cause” (1995), “If Lucy Fell” (1996), "Manny dan Lo" (1996) dan "Home Alone 3" (1997). Pada tahun 1998 ia mendapatkan peran sebagai Grace MacLean pada film The Horse Whisperer. Dalam film itu ia beradu akting dengan aktor kawakan Robert Redford. Kesuksesan film The Horse Whisperer membuat Scarlett mendapatkan peran-peran besar dalam beberapa film seperti "Ghost World" (2001), "Lost in Translation" (2003), "Girl with a Pearl Earring" (2003) dan "The Perfect Score" (2004). Selain itu ia juga sukses memerankan Black Widow dalam film The Avengers (2012). Hingga tahun 2017, Scarlett sudah berhasil membintangi lebih dari 50 film.</item>
+        <item>Lahir di New York, 04 April 1965. Kariernya di dunia dimulai sejak usia 5 tahun yang sudah terlibat dalam pembuatan film yang berjudul POUND. Ini tentunya tak lepas dari peran ayahnya yang seorang sutradara dan produser film-film underground. Saat berusia 20 tahun, Robert masuk dalam serial SATURDAY NIGHT LIVE yang akhirnya membuat robert memutuskan ke Hollywood untuk mengejar karirnya. Robert pernah dinominasikan sebagai aktor terbaik Oscar saat membintangi film CHAPLIN pada tahun 1992. Robert Downey Jr. tercatat meraih Golden Globe Award sebagai peran pembantu terbaik saat harus memerankan Larry Paul dalam serial TV ALLY MCBEAL. Tak kurang dari 70 film layar lebar sudah dibintangi aktor yang tetap akan memainkan tokoh Tony Stark dalam sekuel IRON MAN tahun 2010. Pada tahun 2008, Downey sudah mendapatkan banyak pujian atas perannya di film TROPIC THUNDER. Ia mendapatkan nominasi untuk kategori Best Supporting Actor atas perannya sebagai Kirk Lazarus pada ajang Golden Globe Award dan Academy Award.</item>
+        <item>Lahir di Oxford, 15 April 1990. Sebelum perannya di film HARRY POTTER, pengalaman beraktingnya sangat sedikit. Selain sekolah, aktifitasnya antara lain menulis sebuah puisi, ia pernah mengikuti sebuah kompetisi puisi. Saat berumur tujuh tahun, ia menang peringkat pertama untuk tingkat seusianya. Sejak tahun 2008, Emma sering diincar majalah-majalah untuk menjadi Covergirl. Seperti majalah Flare (November 2008), Sunday Times Style (Desember 2008), VS. Magazine, dan Italian Vogue.  Karirnya segera saja melesat ketika dia berhasil mendapat peran sebagai Hermione Granger dalam sekuel HARRY POTTER, dimana dia berhasil menyisihkan ribuan peserta lain dalam audisi tersebut. Sebagaimana pemeran film HARRY POTTER lainnya, Emma juga dikontrak untuk memainkan karakter dalam film tersebut hingga usai.  </item>
+        <item>Lahir di New York, 18 July 1968. Bernama asli Mark Sinclair Vincent ini. Saat Vin berusia 7 tahun, Vin dan temannya mencuri masuk ke sebuah teater untuk berbuat iseng. Seorang wanita tiba-tiba menghentikan Vin dan menawarkan sebuah naskah drama dan uang sebesar US$20 dengan syarat Vin harus datang ke teater setiap hari sepulang sekolah. Saat berusia 17 tahun, Vin sempat bekerja sebagai tukang pukul di beberapa club. Di sinilah awalnya ia mendapat nama Vin Diesel. Vin memutuskan meninggalkan kuliahnya untuk membuat film pendek berjudul MULTI-FACIAL. Film ini akhirnya berhasil masuk festival film Cannes dan mendapat sambutan positif. Keberhasilan ini membuat Vin kemudian menggalang dana untuk pembuatan film berikutnya yang berjudul STRAYS yang juga berhasil masuk festival film Sundance dan mendapat tanggapan positif. Tak disangka-sangka film MULTI-FACIAL ternyata menarik perhatian sutradara Steven Spielberg yang kemudian malah menawari Vin untuk bermain dalam SAVING PRIVATE RYAN. Sudah ada 18 film yang dibintangi aktor ini termasuk THE FAST AND THE FURIOUS, XXX, A MAN APART, THE CHRONICLES OF RIDDICK, dan THE PACIFIER. Vin kembali membintangi sekuel film THE FAST AND THE FURIOUS keempat. Di film ini, ia kembali bersanding dengan Paul Walker. Vin juga bertindak sebagai produser di film ini.
+</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/tomholland</item>
+        <item>@drawable/scarlett</item>
+        <item>@drawable/robert</item>
+        <item>@drawable/emma</item>
+        <item>@drawable/vin</item>
+    </integer-array>
+</resources>
